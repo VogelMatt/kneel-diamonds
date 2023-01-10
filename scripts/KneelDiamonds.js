@@ -17,7 +17,7 @@ document.addEventListener(
 
 export const KneelDiamonds = () => {
     return `
-        <h1>Kneel Diamonds</h1>
+        <h1>Kneel Diamond's</h1>
 
         <article class="choices">
             <section class="choices__metals options">
